@@ -1,0 +1,5 @@
+<html>
+  <body>
+  <h1>Reports Page Sample New</h1>
+ </body>
+</html>
